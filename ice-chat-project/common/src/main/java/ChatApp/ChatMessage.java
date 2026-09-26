@@ -181,5 +181,5 @@ public class ChatMessage implements java.lang.Cloneable,
     private static final ChatMessage _nullMarshalValue = new ChatMessage();
 
     /** @hidden */
-    public static final long serialVersionUID = -541800608530790476L;
+    public static final long serialVersionUID = -1787918412L;
 }

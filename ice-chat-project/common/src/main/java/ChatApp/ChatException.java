@@ -65,5 +65,5 @@ public class ChatException extends com.zeroc.Ice.UserException
     }
 
     /** @hidden */
-    public static final long serialVersionUID = -1254534298020021442L;
+    public static final long serialVersionUID = -403113154L;
 }
